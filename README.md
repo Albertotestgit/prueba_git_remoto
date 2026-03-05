@@ -2,3 +2,4 @@
 ## Ejercicio de ** Entornos de Desarrollo **
 ---
 Creado por *Tu nombre*
+- index.html : Página principal.
