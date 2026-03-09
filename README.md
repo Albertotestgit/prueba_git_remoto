@@ -2,5 +2,6 @@
 ## Ejercicio de ** Entornos de Desarrollo **
 ---
 Creado por *Tu nombre*
-- index.html : Página principal.
+- index.html : Página principal.:
+- funcionalidades.txt
 
