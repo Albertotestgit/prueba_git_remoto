@@ -4,4 +4,3 @@
 Creado por *Tu nombre*
 - index.html : Página principal.:
 - funcionalidades.txt
-- .gitignoreºº
